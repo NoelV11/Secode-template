@@ -1,0 +1,13 @@
+include COPYING
+include README.md
+include announcement
+include ChangeLog
+include secode.1*
+include secode.ps
+
+include secode
+include makefile
+include setup.cfg
+include setup.py
+include test.c
+include test_result
